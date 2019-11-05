@@ -1,0 +1,39 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: darkred;
+  background-image: url(http://bit.ly/34qwRDJ);
+  background-repeat: repeat-x;
+  color: whitesmoke;
+}
+
+.product {
+  background:black;
+  display: flex;
+  flex-direction: row;
+  border: 2px solid darkslateblue;
+  border-radius: 15px;
+  width: 200px;
+  height: 200px;
+  margin: 30px;
+  align-content: center;
+  margin-left: 450px;
+}
+
+.overallitem {
+  align-content: center;
+}
+
+.price {
+  font-size: 20px;
+  border: 9px solid blueviolet;
+  width: 200px;
+  margin-left: 450px;
+}
+
+.productname {
+  font-size: 16px;
+}
